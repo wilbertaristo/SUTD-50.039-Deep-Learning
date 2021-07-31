@@ -1,5 +1,6 @@
 # SUTD-50.039-Deep-Learning
-SUTD 50.039 Deep Learning Course - January to May 2021 (Term 7)
+SUTD 50.039 Theory and Practice of Deep Learning - January to May 2021 (Term 7)
+For more information, refer to https://istd.sutd.edu.sg/undergraduate/courses/50-039-theory-and-practice-of-deep-learning.
 
 | Homework    | Score      |
 | ----------- |:---------: |
